@@ -1,2 +1,4 @@
 .env
 __pucache__/
+.vscode/
+*.session.sql/
